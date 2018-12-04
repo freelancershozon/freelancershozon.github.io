@@ -859,14 +859,16 @@ figure img {
 
 
 .hover05 .f3:hover img {
-	margin-top: -772px;
+	margin-top: -770px;
 }
 
 .hover05 .f4:hover img {
-	margin-top: -864px;
+	margin-top: -862px;
 }
 
-
+figure.f1:hover img {
+    margin-top: -756px;
+}
 
 
 
