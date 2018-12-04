@@ -856,7 +856,9 @@ figure img {
 	-webkit-transition: 10s ease-in-out;
 	transition: 3s ease-in-out;
 }
-
+figure.f1:hover img {
+    margin-top: -756px;
+}
 
 .hover05 .f3:hover img {
 	margin-top: -770px;
@@ -866,9 +868,7 @@ figure img {
 	margin-top: -862px;
 }
 
-figure.f1:hover img {
-    margin-top: -756px;
-}
+
 
 
 
